@@ -12,4 +12,5 @@ target
 *.ipr
 *.iws
 .idea/
+bin
 META-INF
